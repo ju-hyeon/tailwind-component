@@ -1,6 +1,5 @@
 # tailwind-css
 react, nextJs and tailwind, antDesign, spectrum ... 
-<hr>
 
 <br>
 
